@@ -1,0 +1,20 @@
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\bin\Debug\lab1.exe
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\bin\Debug\lab1.pdb
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.exe
+D:\1AAAAAAAAAAAA\Разработка приложений в визуальных средах\1\lab1\lab1\obj\Debug\lab1.pdb
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\bin\Debug\lab1.exe
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\bin\Debug\lab1.pdb
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.exe
+D:\1AAAAAAAAAAAA\делфи\1\lab1\lab1\obj\Debug\lab1.pdb
